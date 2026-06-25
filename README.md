@@ -39,7 +39,7 @@ _**Recommendation**: Further study is needed to determine why people do not part
 
 Another good measure for catholic participation is the Sacrament of Confession. **Only 45% (324)** of catholics in the Diocese of Kalookan go to confession **at least once a year**. During Holy Week, the church aggressively encourages people to go to confession. More priests are deployed in each parish to hear confessions during this time. This annual ‘Kumpisalang Bayan’ during Holy Week drive these numbers up. 
 
-_**Reccommendation**: Promotion of the this annual activity should continue. But more promotions and encouragement throughout the year could drive participation even higher. Right now, the Sacrament of Confession in most parishes are on by-appointment basis. Having a set time and day for confession for each parish would make it easier to promote this practice and for the people to get confessions._
+_**Reccommendation**: Promotion of this annual activity should continue. But more promotions and encouragement throughout the year could drive participation even higher. Right now, the Sacrament of Confession in most parishes are on by-appointment basis. Having a set time and day for confession for each parish would make it easier for the people to get confessions._
 
 <img width="1537" height="867" alt="Life of Faith   Church Life Frequency" src="https://github.com/user-attachments/assets/16722a92-65ba-4fc0-b800-b00382b19165" />
 
@@ -123,7 +123,8 @@ In terms of satisfaction, parishioners are **generally satisfied** with the serv
 More resources should be put into improving the quality of these services.
 
 On the other hand, parishioners are most satisfied with the following:
- 	1. distribution of relief goods of our parish for the poor during calamities (4.63)
+
+	1. distribution of relief goods of our parish for the poor during calamities (4.63)
 	2. cleanliness and orderliness of the whole parish (4.58)
 	3. number of masses in our parish (4.52)
 	4. treatment of priest toward churchgoers (4.48)
@@ -170,11 +171,11 @@ On the other hand, different facets of social media is the least important for b
 		5. Report what they’re doing on social media for the sake of transparency (3.72)
 
 
-_**Recommendations**: 
-	- We recommend that the clergy embody these behaviors as much as they could when dealing with the public, particularly towards parishioners that are actively serving in the parishes. 
-	- Allocating resources toward leadership trainings and seminars for the clergy is strongly recommended. Providing such trainings does not mean that the clergy do not have these qualities, but it will provide a baseline and a standard as to what kind of leadership is expected from them. 
-	- Once a standardized training is established, we can develop KPIs and questionnaires that measure the leadership effectiveness and performance of each priest in their respective parishes. 
-	- This will help us identify gaps in the priests leadership capabilities and bridge these gaps. Since different parishes have different needs, this will also enable us to assign a priest to a parish that needs the kind of leadership they offer._
+**Recommendations**:  
+		- _We recommend that the clergy embody these behaviors as much as they could when dealing with the public, particularly towards parishioners that are actively serving in the parishes._   
+		- _Allocating resources toward leadership trainings and seminars for the clergy is strongly recommended. Providing such trainings does not mean that the clergy do not have these qualities, but it will provide a baseline and a standard as to what kind of leadership is expected from them._  
+		- _Once a standardized training is established, we can develop KPIs and questionnaires that measure the leadership effectiveness and performance of each priest in their respective parishes._  
+		- _This will help us identify gaps in the priests leadership capabilities and bridge these gaps. Since different parishes have different needs, this will also enable us to assign a priest to a parish that needs the kind of leadership they offer._  
 
 # In-depth Visualization (PowerBI)
 A more detailed visualization was made for this project since it was presented to multiple stakeholders, ministries, and program managers. It provides all the information that can be extracted from this project.  The visuals provided above come from this visualization. 
