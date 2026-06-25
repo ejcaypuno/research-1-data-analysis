@@ -172,10 +172,10 @@ On the other hand, different facets of social media is the least important for b
 
 
 **Recommendations**:  
-		- _We recommend that the clergy embody these behaviors as much as they could when dealing with the public, particularly towards parishioners that are actively serving in the parishes._   
-		- _Allocating resources toward leadership trainings and seminars for the clergy is strongly recommended. Providing such trainings does not mean that the clergy do not have these qualities, but it will provide a baseline and a standard as to what kind of leadership is expected from them._  
-		- _Once a standardized training is established, we can develop KPIs and questionnaires that measure the leadership effectiveness and performance of each priest in their respective parishes._  
-		- _This will help us identify gaps in the priests leadership capabilities and bridge these gaps. Since different parishes have different needs, this will also enable us to assign a priest to a parish that needs the kind of leadership they offer._  
+	- We recommend that the clergy embody these behaviors as much as they could when dealing with the public, particularly towards parishioners that are actively serving in the parishes.  
+	- Allocating resources toward leadership trainings and seminars for the clergy is strongly recommended. Providing such trainings does not mean that the clergy do not have these qualities, but it will provide a baseline and a standard as to what kind of leadership is expected from them.  
+	- Once a standardized training is established, we can develop KPIs and questionnaires that measure the leadership effectiveness and performance of each priest in their respective parishes.  
+	- This will help us identify gaps in the priests leadership capabilities and bridge these gaps. Since different parishes have different needs, this will also enable us to assign a priest to a parish that needs the kind of leadership they offer.  
 
 # In-depth Visualization (PowerBI)
 A more detailed visualization was made for this project since it was presented to multiple stakeholders, ministries, and program managers. It provides all the information that can be extracted from this project.  The visuals provided above come from this visualization. 
