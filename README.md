@@ -25,7 +25,7 @@ Initially, all the data were stored in one table. Each item in the questionnaire
 
 <img width="848" height="472" alt="it la questions table" src="https://github.com/user-attachments/assets/fd3af8db-acee-4de6-9d59-b9d7b9696650" />
 
-The SQL queries used to inspect, split, and perform quality checks can be found here. 
+The SQL queries used to inspect, split, and perform quality checks can be found [here](sql_files). 
 
 
 # Executive Summary
