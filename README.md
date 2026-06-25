@@ -3,17 +3,19 @@ In 2022, the Catholic Church in the Philippines realized that their moral & poli
 
 We established the **Pastoral Communication Research Institute (PCRI)** to provide expert professional services to The **Diocese of Kalookan (DoK)** in fields outside their purview, including psychology, data analytics, social sciences, and information technology. PCRI’s main goal is to aid the DoK executives make better, data-driven decisions using modern technologies and scientific methodology. As one of PCRI’s founders, I brought in my expertise in psychology and data analytics.
 
-For our first research project, the DoK asked us to answer the following questions
-1. How many people are still active in the Church?
-2. How do we do to make people valued?
-3. How are our programs performing? What can we improve? 
-4. What do people want from their leaders? 
+For our first research project, the DoK asked us to answer the following questions:
 
-I developed a questionnaire to answer these questions. The questionnaire has 4 main parts to answer the questions above:
-1. Church Life and Life of Faith Questionnaire 
-2. Behaviorally-Anchored Love Language Questionnaire
-3. Awareness, Availment, & Satisfaction 
-4. Leadership Qualities Questionnaire
+	1. How many people are still active in the Church?
+	2. How do we do to make people valued?
+	3. How are our programs performing? What can we improve?
+	4. What do people want from their leaders?
+
+I developed a questionnaire to answer these questions. The questionnaire has 4 main parts to answer the questions above:  
+
+	1. Church Life and Life of Faith Questionnaire
+	2. Behaviorally-Anchored Love Language Questionnaire
+	3. Awareness, Availment, & Satisfaction
+	4. Leadership Qualities Questionnaire  
 
 Using the Slovin’s formula, it was determined that 720 respondents were needed to get representative data from the population. We randomly selected 720 households from the cities under the jurisdiction of the Diocese of Kalookan. We trained 50+ enumerators that administered the questionnaire. 
 
@@ -32,7 +34,8 @@ A good measure to differentiate active catholics is their participation in sunda
 
 _**Recommendation**: Further study is needed to determine why people do not participate in weekly sunday mass. Doing so will help us formulate better strategies in making people come back to the church on a weekly basis._
 
-<img width="1537" height="867" alt="Life of Faith   Church Life Frequency" src="https://github.com/user-attachments/assets/6f09eb17-31ee-42fc-98fb-8bfd5ed56551" />
+<img width="1537" height="867" alt="Life of Faith   Church Life Frequency" src="https://github.com/user-attachments/assets/6f09eb17-31ee-42fc-98fb-8bfd5ed56551" />  
+  
 
 Another good measure for catholic participation is the Sacrament of Confession. **Only 45% (324)** of catholics in the Diocese of Kalookan go to confession **at least once a year**. During Holy Week, the church aggressively encourages people to go to confession. More priests are deployed in each parish to hear confessions during this time. This annual ‘Kumpisalang Bayan’ during Holy Week drive these numbers up. 
 
@@ -42,7 +45,7 @@ _**Reccommendation**: Promotion of the this annual activity should continue. But
 
 
 ## What do we do to make people feel valued?
-It’s clear to the clergy that their current passive approach to relating to the people is not working. We were specifically asked for behavioral recommendations to answer this question; actionable and tangible behaviors that the clergy can change in order to grow closer to their constituents. 
+We were specifically asked for behavioral recommendations to answer this question; actionable and tangible behaviors that the clergy can change in order to grow closer to their constituents. 
 
 We used the Love Languages framework by Gary Chapman to craft a behaviorally-anchored questionnaire. Respondents were asked to rank 5 different statements that represent each love language across 5 different situations (i.e. everyday, calamity, christmas, back-to-school, and town fiesta).
 
@@ -83,7 +86,10 @@ To address these issues, we developed a standardized evaluation framework based 
 ### Awareness & Availment
 In general, **74.15% of people are aware** of the church’s various services and has **availment rate of 56%**. This means that there are programs that people are not aware of and are not taking advantage of. Consequently, non-availment of these programs lead to resource stagnation and misallocation of budgets. 
 
-A low availment rate could mean that the programs are not promoted properly or the people don’t need it. In cases where the programs are not promoted properly (i.e. low awareness), more resources need to be allocated for the promotion of such services. If the programs are promoted properly (i.e. high awareness) but are not availed, resources should generally be taken away from that program and reallocated to others but that depends on the context of the program. Exceptions to this recommendation applies to programs such as baptism (93.47%), funeral masses (91.39%), and marriage (88.47%) which have high awareness but naturally have low availment because Catholics only avail these once or a few times at most within their lifetime. 
+**General Recommendations:**  
+	_- A low availment rate could mean that the program is not promoted properly or the people don’t need it. In cases where the programs are not promoted properly (i.e. low awareness), more resources need to be allocated for the promotion of such services. 
+	- If the programs are promoted properly (i.e. high awareness) but are not availed, resources should generally be taken away from that program and reallocated to others but that depends on the context of the program. 
+	- Exceptions to this recommendation applies to programs such as baptism (93.47%), funeral masses (91.39%), and marriage (88.47%) which have high awareness but naturally have low availment because Catholics only avail these once or a few times at most within their lifetime._
 
 <img width="428" height="330" alt="Awareness-Availment Funnel" src="https://github.com/user-attachments/assets/2491f881-5d3a-43bd-9fde-07e0a33cf472" />
 
@@ -126,9 +132,49 @@ On the other hand, parishioners are most satisfied with the following:
 A good portion of the church’s resources go to relief operations and the church’s day-to-day operations. This is evident in the satisfaction people get out of them.
 
 ## What do people want from their leaders?
-We asked the respondents to rate different leadership qualities based on how important it is to them. The clergy wanted these to be actionable so we phrased the qualities as behaviors instead of intangible qualities. We also asked the respondents to rate these behaviors for civic leaders and spiritual leaders to see if there are any differences in their expectations. Results show that differences in expectations toward these two distinct leaders are small. It’s important for the respondents that the leaders have a plan for their constituents, admit their mistakes, they’re open to change and criticism, and that they objectively analyze relevant data before making a decision. On the other hand, different facets of social media is the least important for both leaders. 
+We asked the respondents to rate different leadership qualities based on how important it is to them. The clergy wanted these to be actionable so we phrased the qualities as behaviors instead of intangible qualities. We also asked the respondents to rate these behaviors for civic leaders and spiritual leaders to see if there are any differences in their expectations. Results show that differences in expectations toward these two distinct leaders are small: 
 
-We recommend that the clergy embody these behaviors when dealing with the public, particularly towards parishioners that are actively serving in the parishes. Allocating resources toward leadership trainings and seminars for the clergy is strongly recommended. Providing such trainings does not mean that the clergy do not have these qualities, but it will provide a baseline and a standard as to what kind of leadership is expected from them. Once a standardized training is established, we can develop KPIs and questionnaires that measure the leadership effectiveness and performance of each priest in their respective parishes. This will help us identify gaps in the priests leadership capabilities and bridge these gaps. Since different parishes have different needs, this will also enable us to assign a priest to a parish that needs the kind of leadership they offer. 
+- Civic Leader
+
+		1. Has a plan for their constituents (4.50)
+		2. Admits mistakes (4.47)
+		3. Open to change and criticism (4.43)
+		4. Express themselves well (4.40)
+		5. Objectively analyzes relevant data before making a decision (4.36)
+
+- Spiritual Leader
+
+		1. Has a plan for their constituents (4.49)
+		2. Finished college (4.44)
+		2. Admits mistakes (4.44)
+		3. Smart (4.35)
+		3. Open to change and criticism (4.35)
+		3. Objectively analyzes relevant data before making a decision (4.35)
+
+On the other hand, different facets of social media is the least important for both leaders.
+
+- Civic Leader
+		
+		1. Show their everyday lives through vlogs, stories, and videos (3.07)
+		2. Post selfies with people on their social media accounts (3.21)
+		3. Going live on social media to ask people how they are (3.37)
+		4. Has presence on facebook, youtube, etc. (3.44)
+		5. Report what they’re doing in social media for the sake of transparency (3.59)
+
+- Spiritual Leader
+
+		1. Show their everyday lives through vlogs, stories, and videos (3.08)
+		2. Post selfies with peopl eon their social media accounts (3.23)
+		3. Going live on social media to ask people how they are (3.48)
+		4. Has presence on facebook, youtube, etc. (3.55)
+		5. Report what they’re doing on social media for the sake of transparency (3.72)
+
+
+_**Recommendations**: 
+	- We recommend that the clergy embody these behaviors as much as they could when dealing with the public, particularly towards parishioners that are actively serving in the parishes. 
+	- Allocating resources toward leadership trainings and seminars for the clergy is strongly recommended. Providing such trainings does not mean that the clergy do not have these qualities, but it will provide a baseline and a standard as to what kind of leadership is expected from them. 
+	- Once a standardized training is established, we can develop KPIs and questionnaires that measure the leadership effectiveness and performance of each priest in their respective parishes. 
+	- This will help us identify gaps in the priests leadership capabilities and bridge these gaps. Since different parishes have different needs, this will also enable us to assign a priest to a parish that needs the kind of leadership they offer._
 
 # In-depth Visualization (PowerBI)
 A more detailed visualization was made for this project since it was presented to multiple stakeholders, ministries, and program managers. It provides all the information that can be extracted from this project.  The visuals provided above come from this visualization. 
