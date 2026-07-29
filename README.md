@@ -1,3 +1,6 @@
+# Priests are salesmen. Salvation is a product. Faith is a service. 
+
+
 # Project Background
 In 2022, the Catholic Church in the Philippines realized that their moral & political influence is wavering after the loss of a presidential candidate in the 2022 National Elections, despite their staunch endorsement. Losing this election to the son of a late dictator sounded the alarm bells within the clergy. The huge gap between the clergy and their constituents has never been more apparent. Their position as a moral authority in Philippine society has eroded, if not completely abolished. The people don’t listen to them anymore and their messages are not getting across. They realized that they needed expert professional help and modern technologies to bridge this gap between the clergy and the people.
 
